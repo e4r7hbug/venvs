@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+detox = "*"
+ipython = "*"
+pew = {extras = ["pythonz"],version = "*"}
+pip = "*"
+prospector = {extras = ["with_everything"],version = "*"}
+python-language-server = {extras = ["all"],version = "*"}
+pyyaml = "*"
+requests = "*"
+tox = "*"
+wheel = "*"
+yapf = "*"
+yq = "*"
