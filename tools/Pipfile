@@ -9,4 +9,7 @@ verify_ssl = true
 gevent = "*"
 gunicorn = "*"
 httpbin = "*"
+invoke = "*"
+notifiers = "*"
+tabulate = "*"
 twine = "*"
