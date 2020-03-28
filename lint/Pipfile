@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 detox = "*"
+doc8 = "*"
 ipython = "*"
 pew = {extras = ["pythonz"],version = "*"}
 pip = "*"
