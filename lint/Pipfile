@@ -9,6 +9,7 @@ verify_ssl = true
 detox = "*"
 doc8 = "*"
 ipython = "*"
+isort = "*"
 pew = {extras = ["pythonz"],version = "*"}
 pip = "*"
 prospector = {extras = ["with_everything"],version = "*"}
